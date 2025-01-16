@@ -1,8 +1,4 @@
-# Segundo-repositorio
- este e nosso primeiro repositorio
-
 # Ola, mundo!
 
-Primeiro repositório do GitHub
+Primeiro repositório do curso de Git e GitHub
 
-Repositório criado durante uma aula ao vivo
